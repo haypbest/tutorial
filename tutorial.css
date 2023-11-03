@@ -1,0 +1,9 @@
+a[href^="#"] {
+    color: red;
+}
+.p {
+    font-size: 24px;
+}
+.list + p {
+    font-size: 24px;
+}
